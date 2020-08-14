@@ -1,6 +1,8 @@
 jq
 ==
 
+https://github.com/stedolan/jq/wiki/Cookbook
+
 jq is a lightweight and flexible command-line JSON processor.
 
 [![Coverage Status](https://coveralls.io/repos/stedolan/jq/badge.svg?branch=master&service=github)](https://coveralls.io/github/stedolan/jq?branch=master),
